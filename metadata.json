@@ -1,0 +1,8 @@
+{
+  "name": "AI Clone",
+  "description": "An interactive digital clone of yourself (trained with your resume, achievements, and projects) to let recruiters interview your AI counterpart.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
